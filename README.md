@@ -4,7 +4,9 @@ ShopVerse is a full-stack multi-vendor e-commerce platform where buyers discover
 
 ## Live Demo
 
-> Deploy links go here after Vercel + Render deployment (see Deploy section below).
+**Frontend (UI demo):** https://frontend-silk-five-ra7r3jash8.vercel.app
+
+> This is a frontend-only deployment showcasing the UI/design. The backend (auth, checkout, payments) requires Supabase, Cloudinary, Paystack/Stripe, and a Render deployment — see the Deploy section below for the full-stack setup.
 
 ---
 
